@@ -8,6 +8,7 @@
                 <h2 class="card-title h3">Contents</h2>
                 <ul>
                     {% assign nav_pages = site.html_pages | where_exp: 'p','p.nav_order' | where_exp: 'p', 'p.section == nil' | sort: 'nav_order' %}
+                    <p>nav_pages.topics</p></br>
                     {% for p in nav_pages.objects.filter(topics__icontains='Ayyappa') %}
                     <li>
                         {% if p.section_id %}
