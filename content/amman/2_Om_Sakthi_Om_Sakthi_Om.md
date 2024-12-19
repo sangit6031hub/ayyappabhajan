@@ -1,9 +1,12 @@
 ---
 section: Amman
+youtubeid: tv_stI9Gi3c
 nav_order: 2
 title: 2 Om Sakthi Om Sakthi Om
 topics: Amman, Durga, Om, Sakthi, Om, Sakthi, Om, ஓம்சக்தி, ஓம்சக்தி, ஓம்
 ---
+
+## Lyrics
 
 `ஓம்சக்தி ஓம்சக்தி ஓம் - பராசக்தி ஓம்சக்தி ஓம்சக்தி ஓம்`\
 `ஓம்சக்தி ஓம்சக்தி ஓம் - பராசக்தி ஓம்சக்தி ஓம்சக்தி ஓம் (C)`

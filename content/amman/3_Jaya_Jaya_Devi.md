@@ -1,9 +1,14 @@
 ---
 section: Amman
+youtubeid: 4iYYI3ni-MY
 nav_order: 3
 title: 3 Jaya Jaya Devi
 topics: Amman, Jaya, Jaya, Devi, ஜெய, ஜெய, தேவி  
 ---
+
+
+## Lyrics
+
 
 `ஜெய ஜெய தேவி ஜெய ஜெய தேவி துர்க்கா தேவி சரணம்`\
 `ஜெய ஜெய தேவி ஜெய ஜெய தேவி துர்க்கா தேவி சரணம்`
