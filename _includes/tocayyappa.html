@@ -8,14 +8,14 @@
                 <h2 class="card-title h3">Contents</h2>
                 <ul>
                     {% assign nav_pages = site.html_pages | where_exp: 'p','p.nav_order' | where_exp: 'p', 'p.section == nil' | sort: 'nav_order' %}
-                    {% for p in nav_pages.objects.filter(topics__icontains="ayyappa") %}
+                    {% for p in nav_pages.objects.filter(topics__icontains="Ayyappa") %}
                     <li>
                         {% if p.section_id %}
                         {{ p.section_id }}
                         {% assign p_children = site.html_pages | where: 'section', p.section_id | sort: 'nav_order' %}
                         <ul>
                             <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-                            {% for c in p_children.objects.filter(topics__icontains="ayyappa") %}
+                            {% for c in p_children.objects.filter(topics__icontains="Ayyappa") %}
                             <li><a href="{{ c.url | relative_url }}">{{ c.title }}</a></li>
                             {% endfor %}
                         </ul>
