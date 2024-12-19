@@ -14,9 +14,9 @@
                         {{ p.section_id }}
                         {% assign p_children = site.html_pages | where: 'section', p.section_id | sort: 'nav_order' %}
                         <ul>
-                            {% if 'Ayyappa' in p.topics %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+                            {% if "Ayyappa" in p.topics %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
                             {% for c in p_children %}
-                            {% if 'Ayyappa' in c.topics %}<li><a href="{{ c.url | relative_url }}">{{ c.title }}</a></li>{% endif %}
+                            {% if "Ayyappa" in c.topics %}<li><a href="{{ c.url | relative_url }}">{{ c.title }}</a></li>{% endif %}
                             {% endfor %}{% endif %}
                         </ul>
                         {% else %}
