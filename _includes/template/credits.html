@@ -8,16 +8,6 @@
         "{{ site.title }}", 
         {% if site.author %}{{ site.author }},{% endif %}
         {% if site.publication_year %}{{ site.publication_year }},{% endif %}
-        {{ page.url | absolute_url }}
         </code>
-    </p>
-
-    <p>
-        Content:
-        {% if site.content_license_link %}<a href="{{ site.content_license_link }}">{{ site.content_license }}</a>
-        {% elsif site.content_license %}{{ site.content_license }}{% endif %} 
-        {% if site.publication_year %}{{ site.publication_year }}{% endif %}
-        {{ site.author }} 
-        {% if site.source-code %}- <a href="{{ site.source-code }}" target="_blank" rel="noopener">Source Code</a>{% endif %}.
     </p>
 </div>
