@@ -1,7 +1,7 @@
 ---
 section: Ayyappa
-nav_order: 7
-title: 7 Arindhum Ariyamalum
+nav_order: 94
+title: 94 Arindhum Ariyamalum
 topics: Ayyappa, Arindhum, Ariyamalum, அறிந்தும், அறியாமலும்
 ---
 
