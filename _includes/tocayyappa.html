@@ -7,9 +7,9 @@
             <div class="card-body">
                 <h2 class="card-title h3">Contents</h2>
                 <ul>
-                    {% assign nav_pages = site.html_pages | where_exp: 'p','p.nav_order' | where_exp: 'p', 'p.section == nil' | sort: 'nav_order' %}
-                    <p>nav_pages.topics</p></br>
-                    {% for p in nav_pages.objects.filter(topics__icontains='Ayyappa') %}
+                    {% assign nav_pages_old = site.html_pages | where_exp: 'p','p.nav_order' | where_exp: 'p', 'p.section == nil' | sort: 'nav_order' %}
+                    {% assign nav_pages = nav_pages_old.objects.filter(topics__icontains='Ayyappa') %}
+                    {% for p in nav_pages %}
                     <li>
                         {% if p.section_id %}
                         {{ p.section_id }}
