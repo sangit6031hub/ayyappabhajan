@@ -2,7 +2,7 @@
 section: Ayyappa
 nav_order: 3
 title: 3 Daily Chants
-topics: Daily Chants , Sloka(s)
+topics: Ayyappa, Daily Chants , Sloka(s)
 ---
 
 **Lord Ganesha** \
