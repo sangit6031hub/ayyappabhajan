@@ -1,9 +1,13 @@
 ---
 section: Ayyappa
-nav_order: 91
-title: 91 Loka Veeram
+nav_order: 93
+youtubeid: xHiMLXgx0OA
+title: 93 Loka Veeram
 topics: Ayyappa, Loka, Veeram, லோக, வீரம்
 ---
+
+## Lyrics
+
 ஒவ்வொரு ஸ்லோகத்தையும் கூறி சுவாமியே சரணமய்யப்பா என்று சொல்லி நமஸ்காரம் செய்ய வேண்டும்
 
 1. லோக வீரம் மஹா பூஜ்யம் ஸர்வ ரக்ஷõகரம் விபும்\

@@ -5,6 +5,9 @@ title: 85 Enga Karuppasamy
 youtubeid: 1ZGdZFXY5pY
 topics: Ayyappa, Enga, Karuppasamy, எங்க, கருப்பசாமி
 ---
+
+## Lyrics 
+
 `எங்க கருப்பசாமி அவர் எங்க கருப்பசாமி`\
 அக்கினியில் பிறந்தவராம் அரனாரின் மைந்தனவன்\
 `எங்க கருப்பசாமி அவர் எங்க கருப்பசாமி`

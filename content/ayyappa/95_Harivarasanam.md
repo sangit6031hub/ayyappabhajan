@@ -1,9 +1,13 @@
 ---
 section: Ayyappa
-nav_order: 92
-title: 92 Harivarasanam
+nav_order: 95
+youtubeid: 0JUdvPYNL8E
+title: 95 Harivarasanam
 topics: Ayyappa, Harivarasanam, ஹரிவ, ராஸனம்
 ---
+
+## Lyrics
+
 ஹரிவ ராஸனம் விஸ்வ மோஹனம்\
 ஹரிததீஸ்வரம் ஆ ராத்ய பாதுகம்\
 அரிவிமர்தனம் நித்ய நர்த்தனம்\
