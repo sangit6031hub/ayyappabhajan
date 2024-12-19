@@ -4,5 +4,5 @@ layout: lesson-content
 title: Bloom Ayyappa
 ---
 
-{% include toc.html %}
+{% include tocayyappa.html %}
 
