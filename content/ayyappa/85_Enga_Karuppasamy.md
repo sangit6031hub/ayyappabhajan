@@ -2,6 +2,7 @@
 section: Ayyappa
 nav_order: 85
 title: 85 Enga Karuppasamy
+youtubeid: 1ZGdZFXY5pY
 topics: Ayyappa, Enga, Karuppasamy, எங்க, கருப்பசாமி
 ---
 `எங்க கருப்பசாமி அவர் எங்க கருப்பசாமி`\
