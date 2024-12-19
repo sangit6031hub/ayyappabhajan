@@ -1,9 +1,13 @@
 ---
 section: Ayyappa
+youtubeid: p89TBJND2TE
 nav_order: 94
 title: 94 Arindhum Ariyamalum
 topics: Ayyappa, Arindhum, Ariyamalum, அறிந்தும், அறியாமலும்
 ---
+
+
+## Lyrics
 
 அறிந்தும், அறியாமலும், தெரிந்தும் தெரியாமலும்  நாங்கள்  செய்த \
 சகல குற்றங்களையும் பொறுத்து காத்து இரட்சிக்க வேண்டும்\
