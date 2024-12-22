@@ -6,14 +6,13 @@ title: Bloom Ayyappa
 
 ## 2024 Bloomington Irumudi plan
 
-{% capture text %}Note:
 **Things Needed:**
 1. Coconut - 4 (1 break in home when u start to Naperville, 1 in Naperville temple before u start, 1 in st louis temple if they permits, 1 in hindu temple/home when we return)
 2. Irumudi bag, coconut bag, Shoulder bag, towel.
 3. Raw Rice in ziplock to put it in ur irumudi.
 4. Some coins
 5. Gift (wrapped) for ur kids (not more than $10 worth) for santa ayyappa event.
-{% endcapture %}
+
 
 **12/24:**
 * 6:00 am - Start from Bloomington
@@ -40,9 +39,8 @@ title: Bloom Ayyappa
 * 9:30 pm - starting from there
 * 12:30 pm - reaching Bloomington
 
-{% capture text %}Note:
-Swamiyae Saranam Ayyappa!{% endcapture %}
-Around 1:00 pm - Mala Vimoshana at Bloomington sai baba temple by Gurusamy.
+**12/26:**
+* Around 1:00 pm - Mala Vimoshana at Bloomington sai baba temple by Gurusamy.
 
 
 
