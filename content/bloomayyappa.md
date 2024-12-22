@@ -44,5 +44,3 @@ title: Bloom Ayyappa
 
 
 
-{% include tocayyappa.html %}
-
