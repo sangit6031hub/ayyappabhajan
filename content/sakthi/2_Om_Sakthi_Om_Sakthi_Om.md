@@ -1,5 +1,5 @@
 ---
-section: Amman
+section: Sakthi
 youtubeid: tv_stI9Gi3c
 nav_order: 2
 title: 2 Om Sakthi Om Sakthi Om

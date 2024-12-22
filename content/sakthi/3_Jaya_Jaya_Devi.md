@@ -1,9 +1,9 @@
 ---
-section: Amman
+section: Sakthi
 youtubeid: 4iYYI3ni-MY
 nav_order: 3
 title: 3 Jaya Jaya Devi
-topics: Amman, Jaya, Jaya, Devi, ஜெய, ஜெய, தேவி  
+topics: Amman, Sakthi, Jaya, Jaya, Devi, ஜெய, ஜெய, தேவி  
 ---
 
 

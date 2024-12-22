@@ -1,5 +1,5 @@
 ---
-section_id: Amman
+section_id: Sakthi
 nav_order: 5
 title: 1 Durga Ashtothram
 topics: Amman, Sakthi, Durga, Ashtothram, 108
