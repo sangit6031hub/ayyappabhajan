@@ -12,6 +12,8 @@ title: Bloom Ayyappa
 3. Raw Rice in ziplock to put it in ur irumudi.
 4. Some coins
 5. Gift (wrapped) for ur kids (not more than $10 worth) for santa ayyappa event.
+6. write Saranam Yatra and your name in irumudi bags
+7. Take 2 prints of Saranam Yatra poster for your car . stick to winshield and rear mirror.
 
 
 **12/24:**
