@@ -1,7 +1,7 @@
 ---
-section: Ayyappa
-nav_order: 85
-title: 85 Enga Karuppasamy
+section_id: KaruppuSwamy
+nav_order: 9
+title: 1 Enga Karuppasamy
 youtubeid: 1ZGdZFXY5pY
 topics: Ayyappa, Enga, Karuppasamy, எங்க, கருப்பசாமி
 ---

@@ -1,7 +1,7 @@
 ---
 section_id: Reference-&-Resources
 nav_order: 10
-title: 1 Titles of Swamy's taking deeksha
+title: 1 Ayyppa Swamy Titles
 topics: Ayyappa, Titles, Swamy
 ---
 
