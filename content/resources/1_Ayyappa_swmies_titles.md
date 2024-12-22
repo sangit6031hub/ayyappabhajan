@@ -1,6 +1,6 @@
 ---
 section_id: Reference-&-Resources
-nav_order: 10
+nav_order: 20
 title: 1 Ayyppa Swamy Titles
 topics: Ayyappa, Titles, Swamy
 ---

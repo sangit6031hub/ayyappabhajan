@@ -1,6 +1,6 @@
 ---
 section_id: Ayyappa
-nav_order: 7
+nav_order: 8
 title: 1 Daily Chants
 topics: Ayyappa, Daily Chants , Sloka(s)
 ---
