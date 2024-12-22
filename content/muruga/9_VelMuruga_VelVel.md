@@ -1,7 +1,7 @@
 ---
 section: Murugan
 nav_order: 9
-title: 9 VelMuruga VelMuruga VelMuruga VelVel
+title: 9 VelMuruga VelVel
 topics: Murugan, VelMuruga, VelVel
 ---
 
