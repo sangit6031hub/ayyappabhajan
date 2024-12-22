@@ -13,8 +13,10 @@ title: Bloom Ayyappa
 4. Some coins
 5. Gift (wrapped) for ur kids (not more than $10 worth) for santa ayyappa event.
 6. write Saranam Yatra and your name in irumudi bags
-7. Take 2 prints of Saranam Yatra poster for your car . stick to winshield and rear mirror.
-
+   {% include figure.html img="Irumudibag-Naming.jpeg" alt="Irumudi Bag" caption="Saranam-Yatra-Irumudibag" width="25%" %}
+7. Take 2 prints of Saranam Yatra poster for your car . stick to winshield and rear mirror.<a href="https://sangit6031hub.github.io/bloomayyappa/images/SARANAM-YATRA-CarPoster.jpg"> Download Here</a>
+8. Wear Saranam yatra logo Tshirt if available.
+   {% include figure.html img="Saranam-Yatra-Logo-Tshirt.jpeg" alt="TShirt" caption="Saranam-Yatra-Tshirt" width="25%" %}
 
 **12/24:**
 * 6:00 am - Start from Bloomington
