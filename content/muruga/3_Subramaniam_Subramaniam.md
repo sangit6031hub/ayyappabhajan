@@ -1,7 +1,7 @@
 ---
 section: Murugan
 nav_order: 3
-title: Subramaniam Subramaniam
+title: 3 Subramaniam Subramaniam
 topics: Murugan, Subramaniam, Subramaniam, சுப்ரமண்யம், சுப்ரமண்யம்
 ---
 
