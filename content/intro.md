@@ -5,7 +5,19 @@ title: Introduction
 
 **Key Upcoming Events:**
 
-Dec 21st, 3PM - Maha Padi Pooja @ SaiBaba Temple, Aurora, IL.
+Dear Ayyappa devotees,
+
+As we prepare for this year’s Ayyappa Mala season, we would like to share the key dates for the upcoming pilgrimage:
+	•	Maladharana: Sunday, November 10, 2025 (41 days prior to Darsanam) - Approximately 
+	•	Mahapadi: Friday, December 19, 2025
+	•	Irumudi (Travel to St. Louis): Saturday , December 20, 2025
+	•	Darsanam: Sunday, December 21, 2025
+
+(Please note: While Darsanam usually falls on Christmas Day, this year it will take place the weekend prior to Christmas.)
+
+Chicago Guruswamy has shared these dates as planning for the season is underway. Kindly mark your calendars and stay tuned for further details.
+
+Swamiye Saranam Ayyappa!
 
 {% capture text %}Note:
 Swamiyae Saranam Ayyappa!{% endcapture %}
