@@ -6,7 +6,8 @@ title: Bloom Ayyappa
 ## 2025 Bloomington Maladharana plan
 
 **11/10/2025: Maladharana**
-**Things Needed:**
+
+**Things Needed for 11/10/2025**
 1. (Optional) Fruits, Flowers and Prasadam.
 2. (Optional) Dakshana (dollars).
 3. Mala wrapped inside a ziplock containing rice.
@@ -16,7 +17,9 @@ title: Bloom Ayyappa
 
 ## 2025 Bloomington Irumudi plan
 
-**Things Needed:**
+**12/19/2025: Mahapadi pooja**
+
+**Things Needed for 12/20/2025**
 1. Coconut - 4 (1 break in home when u start to Naperville, 1 in Naperville temple before u start, 1 in st louis temple if they permits, 1 in hindu temple/home when we return)
 2. Irumudi bag, coconut bag, Shoulder bag, towel.
 3. Raw Rice in ziplock to put it in ur irumudi.
@@ -25,9 +28,6 @@ title: Bloom Ayyappa
 6. write Saranam Yatra and your name in irumudi bags {% include figure.html img="Irumudibag-Naming.jpeg" alt="Irumudi Bag" caption="Saranam-Yatra-Irumudibag" width="25%" %}
 7. Take 2 prints of Saranam Yatra poster for your car . stick to winshield and rear mirror.<a href="https://sangit6031hub.github.io/bloomayyappa/images/SARANAM-YATRA-CarPoster.jpg"> Download Here</a>
 8. Wear Saranam yatra logo Tshirt if available. {% include figure.html img="Saranam-Yatra-Logo-Tshirt.jpeg" alt="TShirt" caption="Saranam-Yatra-Tshirt" width="25%" %}
-
-**12/19/2025: Mahapadi pooja**
-
 
 **12/20/2025: Irumudi & Travel**
 * 6:00 am - Start from Bloomington
