@@ -18,6 +18,7 @@ title: Bloom Ayyappa
 ## 2025 Bloomington Irumudi plan
 
 **12/19/2025: Mahapadi pooja**
+* TBD Place and Time. 
 
 **Things Needed for 12/20/2025**
 1. Coconut - 4 (1 break in home when u start to Naperville, 1 in Naperville temple before u start, 1 in st louis temple if they permits, 1 in hindu temple/home when we return)
