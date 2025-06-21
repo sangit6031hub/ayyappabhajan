@@ -3,6 +3,16 @@ nav_order: 2
 layout: lesson-content
 title: Bloom Ayyappa
 ---
+## 2025 Bloomington Maladharana plan
+
+**11/10/2025: Maladharana**
+**Things Needed:**
+1. (Optional) Fruits, Flowers and Prasadam.
+2. (Optional) Dakshana (dollars).
+3. Mala wrapped inside a ziplock containing rice.
+4. Ayyappa dress - Veshti, thundu, shirt . etc(Black color, ..etc)
+   
+
 
 ## 2025 Bloomington Irumudi plan
 
