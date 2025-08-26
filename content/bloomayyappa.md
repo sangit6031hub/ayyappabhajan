@@ -1,7 +1,7 @@
 ---
 nav_order: 2
 layout: lesson-content
-title: Bloom Ayyappa
+title: Ayyappa Schedule
 ---
 ## 2025 Bloomington Maladharana plan
 
