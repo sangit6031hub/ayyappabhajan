@@ -2,13 +2,13 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: Bloom Ayappa
+title: Ayyappa Bhajan
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/ (or look in "_includes/bootstrap-icons")
 # some options: code-slash file-code gear tools lightblub book bookmark-star
 # title-icon: code-slash
 # description appears in sidebar footer
-description: "Bloom Ayappa group songs and lyrics"
+description: "Ayyappa group songs and lyrics"
 # keywords for meta tags used by search engines
 keywords: "ayyappa, lyrics, tamil, bhajan"
 # image for meta tags, will appear when sharing link on social media
