@@ -1,13 +1,14 @@
 ---
 nav_order: 2
 layout: lesson-content
-title: Ayyappa Schedule
+title: Ayyappa Mala
 ---
 ## 2025 Bloomington Maladharana plan
 
-**11/10/2025: Maladharana**
+**11/08/2025: Maladharana for 41+ days**
+**11/30/2025: Maladharana for 21+ days**
 
-**Things Needed for 11/10/2025**
+**Things Needed for 11/08/2025**
 1. (Optional) Fruits, Flowers and Prasadam.
 2. (Optional) Dakshana (dollars).
 3. Mala wrapped inside a ziplock containing rice.
@@ -20,7 +21,7 @@ title: Ayyappa Schedule
 **12/19/2025: Mahapadi pooja**
 * TBD Place and Time. 
 
-**Things Needed for 12/20/2025**
+**Things Needed for Irumudi Puja day**
 1. Coconut - 4 (1 break in home when u start to Naperville, 1 in Naperville temple before u start, 1 in st louis temple if they permits, 1 in hindu temple/home when we return)
 2. Irumudi bag, coconut bag, Shoulder bag, towel.
 3. Raw Rice in ziplock to put it in ur irumudi.
@@ -30,7 +31,7 @@ title: Ayyappa Schedule
 7. Take 2 prints of Saranam Yatra poster for your car . stick to winshield and rear mirror.<a href="https://sangit6031hub.github.io/bloomayyappa/images/SARANAM-YATRA-CarPoster.jpg"> Download Here</a>
 8. Wear Saranam yatra logo Tshirt if available. {% include figure.html img="Saranam-Yatra-Logo-Tshirt.jpeg" alt="TShirt" caption="Saranam-Yatra-Tshirt" width="25%" %}
 
-**12/20/2025: Irumudi & Travel**
+**12/21/2025: Irumudi & Travel**
 * 6:00 am - Start from Bloomington
 * 8:00 am - Reaching Naperville Sai baba temple, non samis can have breakfast there. Samys can have after irumudi.
 * 8:30 am - First batch irumudi starts. Bloomington is in 2nd batch. So pls try to reach before 8:30am.
@@ -43,7 +44,7 @@ title: Ayyappa Schedule
 * 8:30 pm - going to Hotel
 * 10:30 pm - Sleep
 
-**12/21/2025: Darsanam**
+**12/22/2025: Darsanam**
 * 5:30 am - wakeup, get ready
 * 7:00 am - Starting to temple.
 * 12:30 pm - All abhishegam and pooja ends
@@ -54,7 +55,7 @@ title: Ayyappa Schedule
 * 9:30 pm - starting from there
 * 12:30 pm - reaching Bloomington
 
-**12/23:Mala Vimoshana(tenative)**
+**12/24:Mala Vimoshana(tenative)**
 * Around 1:00 pm - Mala Vimoshana at Bloomington sai baba temple by Gurusamy.
 
 
