@@ -15,10 +15,20 @@
 
 {%- endcomment -%}
 <div class="text-center ">
-    <figure class="figure w-{{ include.width | default: '100' }}">
-        <div class="ratio ratio-{{ include.ratio | default: '16x9' }}">
-            <iframe src="https://www.youtube-nocookie.com/embed/{{ include.youtubeid }}?rel=0&modestbranding=1" allowfullscreen></iframe>
+    <figure class="figure w-{{ include.width | default: '75' }} mx-auto">
+        <div class="card shadow-sm rounded overflow-hidden">
+            <div class="ratio ratio-{{ include.ratio | default: '16x9' }}">
+                <iframe
+                    src="https://www.youtube-nocookie.com/embed/{{ include.youtubeid }}?rel=0&modestbranding=1"
+                    class="border-0"
+                    title="{{ include.title | default: 'YouTube video' }}"
+                    loading="lazy"
+                    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen></iframe>
+            </div>
         </div>
-        {% if include.caption %}<figcaption class="figure-caption">{{ include.caption }}</figcaption>{% endif %}
+        {% if include.caption %}
+            <figcaption class="figure-caption mt-2 text-muted small">{{ include.caption }}</figcaption>
+        {% endif %}
     </figure>
 </div>
