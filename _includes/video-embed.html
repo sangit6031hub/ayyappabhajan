@@ -15,7 +15,8 @@
 
 {%- endcomment -%}
 <div class="text-center ">
-    <figure class="figure w-{{ include.width | default: '75' }} mx-auto">
+    <!-- set default width to 50 and constrain max pixel width -->
+    <figure class="figure w-{{ include.width | default: '50' }} mx-auto" style="max-width: 640px;">
         <div class="card shadow-sm rounded overflow-hidden">
             <div class="ratio ratio-{{ include.ratio | default: '16x9' }}">
                 <iframe
