@@ -5,7 +5,7 @@ title: Ayyappa Mala
 ---
 ## 2025 Bloomington Maladharana plan
 
-**11/08/2025: Maladharana for 41+ days**
+**11/08/2025: Maladharana for 41+ days**\
 **11/30/2025: Maladharana for 21+ days**
 
 **Things Needed for 11/08/2025**
