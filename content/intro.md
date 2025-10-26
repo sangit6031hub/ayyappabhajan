@@ -19,5 +19,5 @@ Chicago Guruswamy has shared these dates as planning for the season is underway.
 
 Swamiye Saranam Ayyappa!
 
-{% capture text %}Note: Maladharana: Sunday, November 10, 2025 (41 days prior to Darsanam) 
+{% capture text %}Note: Maladharana: Saturday, November 08, 2025 (41 days prior to Darsanam) 
 {% endcapture %} {% include alert.html text=text color=secondary %}
