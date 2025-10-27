@@ -1,7 +1,8 @@
 ---
+section_id: Ayyappa Mala
 nav_order: 2
 layout: lesson-content
-title: Ayyappa Mala
+title: 1 Ayyappa Mala
 ---
 ## 2025 Bloomington Maladharana plan
 
