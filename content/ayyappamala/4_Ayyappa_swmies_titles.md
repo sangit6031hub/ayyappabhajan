@@ -1,7 +1,7 @@
 ---
-section_id: Reference-&-Resources
-nav_order: 20
-title: 1 Ayyppa Swamy Titles
+section_id: Ayyappa Mala
+nav_order: 4
+title: 4 Ayyppa Swamy Titles
 topics: Ayyappa, Titles, Swamy
 ---
 

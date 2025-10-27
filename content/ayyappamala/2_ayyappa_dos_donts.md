@@ -1,5 +1,5 @@
 ---
-section: Reference-&-Resources
+section_id: Ayyappa Mala
 nav_order: 2
 title: 2 Ayyappa Dos and Don'ts
 topics: Ayyappa
