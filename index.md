@@ -1,5 +1,5 @@
 ---
-title: Ayappa Bhajan
+title: Bloom Bhajan
 layout: lesson-content
 ---
 
