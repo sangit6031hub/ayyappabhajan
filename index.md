@@ -3,7 +3,7 @@ title: Ayappa Bhajan
 layout: lesson-content
 ---
 
-Welcome to Bloom Ayyappa. One stop for all bhajan lyrics and songs.
+Welcome to Bloom Bhajan. One stop for all bhajan lyrics and songs.
 
 {% include figure.html img="logo.png" alt="Ayyappa" caption="Saranam Ayyappa" width="25%" %}
 
