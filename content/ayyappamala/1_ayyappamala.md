@@ -10,7 +10,8 @@ title: 1 Ayyappa Mala
 **11/30/2025: Maladharana for 21+ days**
 
 **Things Needed for 11/08/2025**
-1. (Optional) Fruits, Flowers and Prasadam.
+1. Complete Registration - <a target="_blank" href="https://forms.gle/zT3zwv7StndqfCG18"> Google Form</a>
+2. (Optional) Fruits, Flowers and Prasadam.
 2. (Optional) Dakshana (dollars).
 3. Mala wrapped inside a ziplock containing rice.
 4. Ayyappa dress - Veshti, thundu, shirt . etc(Black color, ..etc)
@@ -29,7 +30,7 @@ title: 1 Ayyappa Mala
 4. Some coins
 5. Gift (wrapped) for ur kids (not more than $10 worth) for santa ayyappa event.
 6. write Saranam Yatra and your name in irumudi bags {% include figure.html img="Irumudibag-Naming.jpeg" alt="Irumudi Bag" caption="Saranam-Yatra-Irumudibag" width="25%" %}
-7. Take 2 prints of Saranam Yatra poster for your car . stick to winshield and rear mirror.<a href="https://sangit6031hub.github.io/bloombhajan/images/SARANAM-YATRA-CarPoster.jpg"> Download Here</a>
+7. Take 2 prints of Saranam Yatra poster for your car . stick to winshield and rear mirror.<a target="_blank" href="https://sangit6031hub.github.io/bloombhajan/images/SARANAM-YATRA-CarPoster.jpg"> Download Here</a>
 8. Wear Saranam yatra logo Tshirt if available. {% include figure.html img="Saranam-Yatra-Logo-Tshirt.jpeg" alt="TShirt" caption="Saranam-Yatra-Tshirt" width="25%" %}
 
 **12/21/2025: Irumudi & Travel**

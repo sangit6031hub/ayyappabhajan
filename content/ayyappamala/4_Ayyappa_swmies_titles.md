@@ -7,23 +7,23 @@ topics: Ayyappa, Titles, Swamy
 
 The following are the various titles given to persons who are taking ayyappa swamy deeksha depending on the number of times they are taking the deeksha. The titles are symbolic for the 18 steps indicating the 18 years. Once the cycle completes the nineteenth year onwards it is counted from one again i.e the nineteenth year swamy is a kanne swamy again.
 
-1st time Swamy is called as KANNI SWAMY or KANNE SWAMY.\
-2nd year Swamy is called KATHI SWAMY,\
-3rd year Swamy is called as GANTA SWAMY,\
+1st time Swamy is called as KANNI SWAMY.\
+2nd year Swamy is called as KATHI SWAMY.\
+3rd year Swamy is called as GANTA SWAMY.\
 4th year Swamy is called as GADA SWAMY.\
-5th year Swamy is called PERU SWAMY,\
-6th year Swamy is called as JYOTI SWAMY,\
-7th year Swamy is called as SURYA SWAMY,\
-8th year Swamy is called as CHANDRA SWAMY,\
-9th year Swamy is called as TRISHULA SWAMY,\
-10 th year Swamy is called as VISHNU CHAKRA SWAMY,\
-11 th year Swamy is called as SHANKADHARA SWAMY,\
-12 th year Swamy is called as NAGABHARANA SWAMY,\
-13 th year Swamy is called as SRIHARI SWAMY,\
-14th year Swamy is called as PADMA SWAMY,\
-15th year Swamy is called as SRI SWAMY,\
-16th year Swamy is called as SRI SABARI (RATHIGIRI) SWAMY,\
-17th year Swamy is called as OMKAARA SWAMY, and the\
+5th year Swamy is called as PERU SWAMY.\
+6th year Swamy is called as JYOTI SWAMY.\
+7th year Swamy is called as SURYA SWAMY.\
+8th year Swamy is called as CHANDRA SWAMY.\
+9th year Swamy is called as TRISHULA SWAMY.\
+10 th year Swamy is called as VISHNU CHAKRA SWAMY.\
+11 th year Swamy is called as SHANKADHARA SWAMY.\
+12 th year Swamy is called as NAGABHARANA SWAMY.\
+13 th year Swamy is called as SRIHARI SWAMY.\
+14th year Swamy is called as PADMA SWAMY.\
+15th year Swamy is called as SRI SWAMY.\
+16th year Swamy is called as SRI SABARI (RATHIGIRI) SWAMY.\
+17th year Swamy is called as OMKAARA SWAMY. and the\
 18th year Swamy is called as NARIKELA SWAMY (Guruswamy)
 
 
