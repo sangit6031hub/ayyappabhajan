@@ -1,5 +1,5 @@
 ---
-section_id: Ayyappa Mala
+section: Ayyappa Mala
 nav_order: 3
 title: 3 Ayyappa Irumudi Pooja
 topics: Ayyappa
